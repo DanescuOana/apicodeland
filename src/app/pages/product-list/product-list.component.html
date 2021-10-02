@@ -1,0 +1,16 @@
+<ng-container *ngIf="products$ | async as products">
+  <section class="cards-container">
+    <div *ngFor="let product of products">
+      <mat-card class="example-card">
+        <mat-card-title-group>
+          <mat-card-title>{{product.name}}</mat-card-title>
+          <mat-card-subtitle>{{product.description}}</mat-card-subtitle>
+          <img mat-card-xl-image src = {{product.url}} >
+        </mat-card-title-group>
+        <mat-card-content>
+          {{product.description}}
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </section>
+</ng-container>

@@ -1,0 +1,78 @@
+[
+  {
+    "skuId": 1,
+    "name": "Propolis",
+    "description": "Aceasta este o descriere a produsului Propolis",
+    "url": "./../../../assets/download.jfif",
+    "categoryList": [
+      {
+        "id": 1,
+        "name": "Propolis"
+      },
+      {
+        "id": 2,
+        "name": "Bio things"
+      }
+    ]
+  },
+  {
+    "skuId": 2,
+    "name": "Miere",
+    "description": "Aceasta este o descriere a produsului Miere",
+    "url": "./../../../assets/2.jfif",
+    "categoryList": [
+      {
+        "id": 3,
+        "name": "Miere"
+      }
+    ]
+  },
+  {
+    "skuId": 3,
+    "name": "Miere de cimbru",
+    "description": "Aceasta este o descriere a produsului Miere",
+    "url": "./../../../assets/3.jfif",
+    "categoryList": [
+      {
+        "id": 3,
+        "name": "Miere"
+      }
+    ]
+  },
+  {
+    "skuId": 4,
+    "name": "Miere de tei",
+    "description": "Aceasta este o descriere a produsului Miere",
+    "url": "./../../../assets/4.jfif",
+    "categoryList": [
+      {
+        "id": 3,
+        "name": "Miere"
+      }
+    ]
+  },
+  {
+    "skuId": 5,
+    "name": "Miere de mana",
+    "description": "Aceasta este o descriere a produsului Miere",
+    "url": "./../../../assets/5.jfif",
+    "categoryList": [
+      {
+        "id": 3,
+        "name": "Miere"
+      }
+    ]
+  },
+  {
+    "skuId": 6,
+    "name": "Miere de salcam",
+    "description": "Aceasta este o descriere a produsului Miere de salcam",
+    "url": "./../../../assets/6.jfif",
+    "categoryList": [
+      {
+        "id": 3,
+        "name": "Miere"
+      }
+    ]
+  }
+]
